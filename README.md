@@ -1,6 +1,3 @@
-# goodresults2.0
-Segunda versão do site GoodResults realizado para conclusão do 2º módulo do Curso Técnico de Informática.
-
 ## Segunda versão do site da empresa GoodResults
 
 ### Site realizado para conclusão do 2º modulo do Curso Técnico de Informática.
