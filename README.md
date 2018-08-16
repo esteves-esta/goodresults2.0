@@ -5,7 +5,5 @@
 
 **Linguagens usadas neste projeto: HTML | CSS | JQUERY**
 
-Para o término do 2° modulo do curso de técnico de informática. Este repositório possui os arquivos deste site que pode ser visualizado no seguinte [link](https://esteves-esta.github.io).
-
 
 
